@@ -1,0 +1,13 @@
+{
+  "name": "scss_function",
+  "version": "1.0.0",
+  "description": "SCSS функции",
+  "author": "LiquidHub.ru",
+  "type": "scss_function",
+  "homepage": "https://github.com/insales-components/scss_function",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
